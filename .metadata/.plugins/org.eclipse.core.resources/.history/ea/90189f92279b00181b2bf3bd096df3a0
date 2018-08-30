@@ -1,0 +1,13 @@
+package newDynamic;
+
+import java.util.Arrays;
+
+public class FindMaximumNumberPossibleByDoingAtMostKSwaps {
+	void getMax(int[] arr, int k)
+	{
+		if( k == 0)
+		{
+			System.out.println(Arrays.toString(arr));
+		}
+	}
+}

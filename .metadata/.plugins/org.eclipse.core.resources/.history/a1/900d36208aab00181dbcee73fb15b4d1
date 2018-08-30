@@ -1,0 +1,14 @@
+package hackerRank;
+
+public class LeftRotation {
+	int[] leftRotate(int[] arr, int d)
+	{
+		int n = arr.length;
+		int[] out = new int[n];
+		for(int i=0;i<n;i++)
+		{
+			out[i] = arr[(i+d)%n];
+		}
+		return out;
+	}
+}

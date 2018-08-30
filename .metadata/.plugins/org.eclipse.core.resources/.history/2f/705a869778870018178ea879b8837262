@@ -1,0 +1,8 @@
+package GraphAlgos;
+
+import java.util.List;
+
+public class Graph {
+	int N;
+	List<Integer> adj;
+}

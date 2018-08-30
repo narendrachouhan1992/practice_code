@@ -1,0 +1,8 @@
+package hackerRank;
+
+public class LeftRotation {
+	int[] leftRotate(int[] arr, int d)
+	{
+		
+	}
+}

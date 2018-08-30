@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;ls&apos; in &apos;hackerRank.MinMax.main(...)&apos; to &apos;ls1&apos;&#x0D;&#x0A;- Original project: &apos;SampleJava&apos;&#x0D;&#x0A;- Original element: &apos;hackerRank.MinMax.main(String[]).ls&apos;&#x0D;&#x0A;- Renamed element: &apos;ls&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;ls&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;hackerRank{MinMax.java[MinMax~main~\[QString;@ls!1740!1776!1754!1755!QList\&lt;QInteger;&gt;;!0!false" name="ls1" references="true" stamp="1532970395095" version="1.0"/>
+</session>

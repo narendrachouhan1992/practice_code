@@ -1,0 +1,12 @@
+package GraphAlgos;
+
+import java.util.List;
+
+public class Graph {
+	int N;
+	List<Integer>[] adj;
+	public Graph(int numberOfVertex) {
+		this.N = numberOfVertex;
+		// TODO Auto-generated constructor stub
+	}
+}
